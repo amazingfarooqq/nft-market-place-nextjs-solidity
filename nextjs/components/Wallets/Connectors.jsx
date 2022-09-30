@@ -4,7 +4,7 @@ import { PortisConnector } from "@web3-react/portis-connector";
 import { FortmaticConnector } from "@web3-react/fortmatic-connector";
 import { WalletConnectConnector } from "@web3-react/walletconnect-connector";
 
-// MetaMask
+// MetaMaskk
 export const Injected = new InjectedConnector({
     supportedChainIds: [1, 3, 4, 5, 42, 56 , 97]
 });
